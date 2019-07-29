@@ -1,0 +1,60 @@
+body {
+    background-color: rgb(220, 220, 220);
+}
+
+h1{
+    font-size: 38pt;
+}
+
+#texto :hover{
+    color: pink;
+}
+
+a :hover{
+    color:pink;
+}
+
+#meme :hover{
+    width: 40%;
+}
+
+#tituloHome:hover{
+    background-color: yellow;
+}
+
+#meme {
+    border-width: 10px;
+    border: black;
+    border-style: solid;
+    width: 40%;
+    /* padding: 10px */
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+#logoTopo img{
+    width: 10%;
+}
+
+#tituloHome {
+    background-color: aquamarine;
+} 
+
+#texto {
+    width: 40%;
+    float: left;
+    margin-left: 30px;
+    margin-top: 60px;
+
+}
+
+li{
+    font-size: 24pt; 
+   
+}
+
+#lista{
+    text-align: center;
+    list-style-type: none;
+    font-size: 20pt; 
+}
